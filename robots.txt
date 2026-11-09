@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://gauravkokse-gk.github.io/sitemap.xml
