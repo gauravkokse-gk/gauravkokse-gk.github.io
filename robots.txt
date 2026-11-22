@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gauravkokse-gk.github.io/sitemap.xml
+Sitemap: https://gauravkokse.com/sitemap.xml
